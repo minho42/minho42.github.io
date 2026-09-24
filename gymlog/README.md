@@ -4,6 +4,8 @@ A deliberately simple iOS app for tracking **whether you went to the gym** — n
 reps or sets. Tap a day, mark what you did (upper, lower, cardio, or a general
 check‑in), and see your consistency over time.
 
+[<img src="../badge-appstore.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/gym-log-workout-tracker/id6808416877)
+
 <img src="screenshot.png" alt="Gym Log calendar" width="280">
 <img src="screenshot2.png" alt="Gym Log stats" width="280">
 

@@ -2,7 +2,7 @@
 
 A big, easy-to-see calendar for iPhone.
 
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/big-calendar/id6801043934)
+[<img src="../badge-appstore.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/big-calendar/id6801043934)
 
 <img src="comp-bigcal.png" alt="Big Calendar screenshot" width="300" />
 
