@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Cards is a loyalty card wallet. It does not collect, store, or share any personal data.
+Card List is a loyalty card wallet. It does not collect, store, or share any personal data.
 
 ## Your cards
 

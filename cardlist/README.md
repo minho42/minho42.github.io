@@ -1,10 +1,10 @@
-# Cards
+# Card List
 
 A simple loyalty card wallet for iPhone.
 
 Keep all your loyalty and membership cards in one place and show the barcode at the checkout.
 
-<img src="screenshot.png" alt="Cards screenshot" width="300">
+<img src="screenshot.png" alt="Card List screenshot" width="300">
 
 ## Features
 
@@ -16,7 +16,7 @@ Keep all your loyalty and membership cards in one place and show the barcode at 
 
 ## Free
 
-Cards is completely free and will stay that way: no ads, no in-app purchases, no subscriptions.
+Card List is completely free and will stay that way: no ads, no in-app purchases, no subscriptions.
 
 ## Availability
 
@@ -25,7 +25,7 @@ Cards is completely free and will stay that way: no ads, no in-app purchases, no
 
 ## Privacy
 
-Cards doesn't collect any data. See the [privacy policy](privacy-policy.md).
+Card List doesn't collect any data. See the [privacy policy](privacy-policy.md).
 
 ## Contact
 
