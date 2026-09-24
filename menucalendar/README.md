@@ -2,6 +2,8 @@
 
 A tiny macOS menu bar app that shows today's event from one calendar, in one line.
 
+<img src="screenshot.png" alt="Menu Calendar screenshot" width="346">
+
 ```
 roster [N10]
 └─┬──┘  └┬┘
