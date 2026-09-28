@@ -6,6 +6,8 @@ check‑in), and see your consistency over time.
 
 [<img src="../badge-appstore.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/gym-log-workout-tracker/id6808416877)
 
+<img src="qr-code.png" alt="QR code to download Gym Log on the App Store" width="150" />
+
 <img src="screenshot.png" alt="Gym Log calendar" width="280">
 <img src="screenshot2.png" alt="Gym Log stats" width="280">
 
