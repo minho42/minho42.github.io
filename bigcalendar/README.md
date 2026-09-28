@@ -4,6 +4,8 @@ A big, easy-to-see calendar for iPhone.
 
 [<img src="../badge-appstore.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/big-calendar/id6801043934)
 
+<img src="qr-code.png" alt="QR code to download Big Calendar on the App Store" width="150" />
+
 <img src="comp-bigcal.png" alt="Big Calendar screenshot" width="300" />
 
 Big Calendar shows the calendars already on your device — iCloud, Google, and
