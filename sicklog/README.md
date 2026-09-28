@@ -5,6 +5,8 @@ is sick — what it was, how long it lasted, and how they were along the way.
 
 [<img src="../badge-appstore.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/sick-log-illness-tracker/id6809639690)
 
+<img src="qr-code.png" alt="QR code to download Sick Log on the App Store" width="150" />
+
 <img src="screenshot.png" alt="Sick Log on iPhone" width="300">
 
 ## What you can record
