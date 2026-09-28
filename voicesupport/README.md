@@ -31,9 +31,10 @@ down and get through it.
 
 ## Why I made it
 
-I made Voice Support for myself. I've been through depression, anxiety, and
-anger, and I built this to help calm myself
-down when it gets to be too much. Here's what I've found helps.
+I made Voice Support for myself. I live with depression, anxiety, and anger,
+and I use this to help calm myself down when it all gets too much. It's not a
+fix. It's my attempt at getting through it, one hard moment at a time.
+Here's what I've found helps.
 
 ### Voice beats text
 
@@ -47,6 +48,8 @@ A voice I know and trust calms me more than general advice ever could.
 
 In the worst moments, I can't think clearly or reach out. Having comfort ready
 ahead of time means all I have to do is press one button.
+
+I think it's helped me, and I hope it can help you too.
 
 ## Privacy
 
