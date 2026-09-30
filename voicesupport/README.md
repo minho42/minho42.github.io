@@ -29,6 +29,7 @@ down and get through it.
 - **History** — a gentle look back at the hard moments you got through, and
   whose voices help you most.
 
+<!--
 ## Why I made it
 
 I struggle with depression, anxiety, and anger. I made Voice Support for myself,
@@ -50,6 +51,7 @@ In the worst moments, I can't think clearly or reach out. Having comfort ready
 ahead of time means all I have to do is press one button.
 
 It's helped me, and I hope it can help you too.
+-->
 
 ## Privacy
 
