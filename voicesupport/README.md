@@ -53,9 +53,9 @@ It's helped me, and I hope it can help you too.
 
 ## Privacy
 
-Your messages and history stay on your iPhone. There's no server, no account to
-create, no analytics, and no ads. See the [privacy policy](privacy-policy.md)
-for details.
+Your messages and history stay on your iPhone and in its backup. There's no
+server, no account to create, no analytics, and no ads. See the
+[privacy policy](privacy-policy.md) for details.
 
 ## Not emergency help
 
