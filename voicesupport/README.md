@@ -29,30 +29,6 @@ down and get through it.
 - **History** — a gentle look back at the hard moments you got through, and
   whose voices help you most.
 
-<!--
-## Why I made it
-
-I struggle with depression, anxiety, and anger. I made Voice Support for myself,
-to help calm me down when it all gets too much. It's not a fix. It's my attempt
-at getting through it, one hard moment at a time.
-Here's what I've found helps.
-
-### Voice beats text
-
-Hearing someone's voice reaches me in a way that reading their words doesn't.
-
-### Someone you know matters
-
-A voice I know and trust calms me more than general advice ever could.
-
-### Help prepared in advance, used in the moment
-
-In the worst moments, I can't think clearly or reach out. Having comfort ready
-ahead of time means all I have to do is press one button.
-
-It's helped me, and I hope it can help you too.
--->
-
 ## Privacy
 
 Your messages and history stay on your iPhone and in its backup. There's no
