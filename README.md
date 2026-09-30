@@ -3,4 +3,5 @@
 - [menucalendar](menucalendar/)
 - [sicklog](sicklog/)
 - [cardlist](cardlist/)
+- [steps](steps/)
 - [voicesupport](voicesupport/)
