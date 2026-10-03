@@ -5,4 +5,4 @@
 - [cardlist](cardlist/)
 - [steps](steps/)
 - [voicesupport](voicesupport/)
-- [kindlevocab](kindlevocab/)
+- [kindlywords](kindlywords/)
