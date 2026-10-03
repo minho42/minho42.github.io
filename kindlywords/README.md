@@ -14,6 +14,15 @@ Kindly Words has two apps, and the Mac app comes first:
 The iPhone app can't read a Kindle by itself. Until you import, it shows three sample books.
 Import again whenever you've looked up new words.
 
+## Which Kindles
+
+Any Kindle with **Vocabulary Builder**, which saves the words you look up: the Kindle
+Paperwhite from 2012 on, the basic Kindle from 2014 on, and every Voyage, Oasis, Scribe and
+Colorsoft. Newer Kindles that don't show up in Finder work too.
+
+Earlier Kindles, like the Kindle Keyboard, don't save looked-up words, but their highlights
+can still be imported.
+
 ## Features
 
 - Browse by book, with definitions and pronunciation.
