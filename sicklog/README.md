@@ -7,7 +7,7 @@ is sick — what it was, how long it lasted, and how they were along the way.
 
 <img src="qr-code.png" alt="QR code to download Sick Log on the App Store" width="150" />
 
-<img src="screenshot.png" alt="Sick Log on iPhone" width="300">
+<img src="ss.png" alt="Sick Log on iPhone" width="300">
 
 ## What you can record
 

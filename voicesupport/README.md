@@ -4,9 +4,9 @@ An iPhone app for the moments when it all feels like too much. Save voice
 messages from the people who love you, and when you need them, press one button
 to hear them remind you that you're safe, you're loved, and this will pass.
 
-<img src="screenshot.png" alt="Voice Support comfort button" width="280">
+<img src="ss.png" alt="Voice Support comfort button" width="280">
 &nbsp;
-<img src="screenshot2.png" alt="Voice Support playing a message" width="280">
+<img src="ss2.png" alt="Voice Support playing a message" width="280">
 
 ## Who it's for
 

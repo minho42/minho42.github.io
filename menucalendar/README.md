@@ -4,7 +4,7 @@ A tiny macOS menu bar app that shows today's event from one calendar, in one lin
 
 [<img src="../badge-macappstore.svg" alt="Download on the Mac App Store" height="50">](https://apps.apple.com/app/menu-calendar-one-line/id6811624544)
 
-<img src="screenshot.png" alt="Menu Calendar screenshot" width="346">
+<img src="ss.png" alt="Menu Calendar screenshot" width="346">
 
 ```
 roster [N10]

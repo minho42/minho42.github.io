@@ -3,9 +3,9 @@
 An iPhone app for shift workers that counts your steps **during your shifts
 only**, not the whole day, so you can see how much each shift really took.
 
-<img src="screenshot.png" alt="Shift Steps on iPhone" width="280">
+<img src="ss.png" alt="Shift Steps on iPhone" width="280">
 &nbsp;
-<img src="screenshot2.png" alt="Shift Steps share card" width="280">
+<img src="ss2.png" alt="Shift Steps share card" width="280">
 
 ## Features
 

@@ -4,9 +4,9 @@ A simple loyalty card wallet for iPhone.
 
 Keep all your loyalty and membership cards in one place and show the barcode at the checkout.
 
-<img src="screenshot.png" alt="Card List grid of cards" width="280">
+<img src="ss.png" alt="Card List grid of cards" width="280">
 &nbsp;
-<img src="screenshot2.png" alt="Card List showing a card's barcode" width="280">
+<img src="ss2.png" alt="Card List showing a card's barcode" width="280">
 
 ## Features
 
