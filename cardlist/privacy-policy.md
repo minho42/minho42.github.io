@@ -24,4 +24,4 @@ Delete a card in the app, or delete the app to remove everything on the device. 
 
 ## Contact
 
-Email: minho42+cardlist@gmail.com
+[minho42+cardlist@gmail.com](mailto:minho42+cardlist@gmail.com)

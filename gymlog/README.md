@@ -26,6 +26,6 @@ A one‑time **Pro** upgrade unlocks the full stats; the core logging is free.
 Gym Log collects nothing — no ads, no analytics, no tracking. See the
 [privacy policy](privacy-policy.md).
 
-## Contact
+## Support
 
-**minho42+gymlog@gmail.com**
+Questions, bugs, or ideas: [minho42+gymlog@gmail.com](mailto:minho42+gymlog@gmail.com)

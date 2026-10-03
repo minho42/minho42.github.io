@@ -45,6 +45,6 @@ Voice Support is a comfort tool, not a medical device or a substitute for
 professional care. If you're in danger, or thinking about hurting yourself or
 someone else, contact your local emergency number or a crisis line.
 
-## Contact
+## Support
 
 Questions, bugs, or ideas: [minho42+voicesupport@gmail.com](mailto:minho42+voicesupport@gmail.com)

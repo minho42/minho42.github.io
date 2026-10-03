@@ -33,4 +33,4 @@ only where you send it.
 to remove everything from your device. Leave Legends first to delete your
 entries there.
 
-Questions: [minho42+steps@gmail.com](mailto:minho42+steps@gmail.com)
+**Contact:** [minho42+steps@gmail.com](mailto:minho42+steps@gmail.com)

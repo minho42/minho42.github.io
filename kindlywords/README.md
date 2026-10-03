@@ -36,6 +36,6 @@ Settings → Accessibility → Read & Speak → Voices → English.
 
 [Privacy policy](privacy-policy.md)
 
-## Contact
+## Support
 
-**minho42+kindlywords@gmail.com**
+Questions, bugs, or ideas: [minho42+kindlywords@gmail.com](mailto:minho42+kindlywords@gmail.com)

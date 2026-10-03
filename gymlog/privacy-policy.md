@@ -13,4 +13,4 @@ payment information.
 
 ## Contact
 
-**minho42+gymlog@gmail.com**
+[minho42+gymlog@gmail.com](mailto:minho42+gymlog@gmail.com)

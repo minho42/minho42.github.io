@@ -29,6 +29,6 @@ Card List is completely free and will stay that way: no ads, no in-app purchases
 
 Card List doesn't collect any data. See the [privacy policy](privacy-policy.md).
 
-## Contact
+## Support
 
-email: minho42+cardlist@gmail.com
+Questions, bugs, or ideas: [minho42+cardlist@gmail.com](mailto:minho42+cardlist@gmail.com)

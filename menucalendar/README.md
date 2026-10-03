@@ -29,6 +29,6 @@ Finished events drop off, and the line resets at midnight. Click or right-click 
 
 Everything stays on your Mac. See [privacy-policy.md](privacy-policy.md).
 
-## Contact
+## Support
 
-[minho42+menucalendar@gmail.com](mailto:minho42+menucalendar@gmail.com)
+Questions, bugs, or ideas: [minho42+menucalendar@gmail.com](mailto:minho42+menucalendar@gmail.com)

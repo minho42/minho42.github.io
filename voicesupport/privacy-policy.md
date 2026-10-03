@@ -19,5 +19,4 @@ only where you send it.
 **Deleting your data:** delete messages or clear your history in the app at any
 time. Deleting the app removes all of its data from your iPhone.
 
-**Contact**  
-[minho42+voicesupport@gmail.com](mailto:minho42+voicesupport@gmail.com)
+**Contact:** [minho42+voicesupport@gmail.com](mailto:minho42+voicesupport@gmail.com)

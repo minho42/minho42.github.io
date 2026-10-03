@@ -13,4 +13,4 @@ Purchases are handled by Apple. The developer never sees your payment details.
 
 ## Contact
 
-**minho42+kindlywords@gmail.com**
+[minho42+kindlywords@gmail.com](mailto:minho42+kindlywords@gmail.com)

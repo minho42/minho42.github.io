@@ -84,5 +84,4 @@ See the [Privacy Policy](privacy-policy.md) for details.
 
 ## Support
 
-Email: minho42+bigcalendar@gmail.com
-
+Questions, bugs, or ideas: [minho42+bigcalendar@gmail.com](mailto:minho42+bigcalendar@gmail.com)
