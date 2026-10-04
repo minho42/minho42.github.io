@@ -30,8 +30,11 @@ can still be imported.
 ## Features
 
 - Browse by book, with definitions and pronunciation.
+- A word of the day, brought back from the ones you looked up a while ago.
 - Your highlights, grouped by book.
-- Kindly Words Pro, a one-time purchase, reads your words aloud.
+- Search your words, the sentences you found them in, your books and your highlights.
+- Kindly Words Pro, a one-time purchase, reads your words aloud with the sentences you
+  found them in, and adds a word of the day widget for your Home and Lock Screen.
 
 English only.
 
