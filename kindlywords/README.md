@@ -32,9 +32,12 @@ can still be imported.
 - Browse by book, with definitions and pronunciation.
 - A word of the day, brought back from the ones you looked up a while ago.
 - Your highlights, grouped by book.
+- Flashcards: your words shuffled, each with the sentences you found it in. Tap to
+  see what it means, swipe for the next.
 - Search your words, the sentences you found them in, your books and your highlights.
 - Kindly Words Pro, a one-time purchase, reads your words aloud with the sentences you
-  found them in, and adds a word of the day widget for your Home and Lock Screen.
+  found them in, and adds a word of the day widget for your Home and Lock Screen. From
+  version 0.2, Pro also adds a highlight of the day widget for your Home Screen.
 
 English only.
 
