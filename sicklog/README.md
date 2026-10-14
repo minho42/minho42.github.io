@@ -34,9 +34,15 @@ If you're signed in to iCloud, your data is saved to your own private iCloud
 account — on the free version too, not just Pro. It syncs across your devices
 and comes back if you reinstall the app or move to a new iPhone.
 
-Sharing logs with other people — a partner, grandparent, or carer — isn't
-available yet. It may come in a future update if there's demand for it. If
-you'd like it, get in touch using the support address below.
+From version 0.7, you can share your logs with family — a partner,
+grandparent, or carer. In Settings, tap **Share with Family** and send the
+invite by Messages, Mail, or a link. Everyone you share with sees every person
+and can add and edit, and changes sync between you over iCloud. Each of you
+needs the app and to be signed in to iCloud.
+
+Shared logs are stored in the iCloud account of whoever shared them. You can
+remove someone or stop sharing at any time from **Manage Sharing**, and anyone
+you've shared with can leave.
 
 ## Privacy
 

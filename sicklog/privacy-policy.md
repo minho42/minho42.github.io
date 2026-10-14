@@ -11,7 +11,13 @@ turn off iCloud for the app in iOS Settings.
 
 **Sharing:** apart from syncing with your own iCloud, your data only leaves your
 device when you choose to send it — for example, by exporting a file or sharing
-with someone. It goes only where you send it.
+with family. It goes only where you send it.
+
+**Sharing with family:** if you share your logs, the people you invite can see
+and change everything in them, including people's details and photos. Shared
+logs stay in the iCloud account of whoever shared them and sync to the people
+invited through Apple's iCloud. The developer still can't see them. You can
+remove someone or stop sharing at any time in Settings → Manage Sharing.
 
 **Children:** the app is often used to record information about children. Since
 the developer never receives any data, that information stays with you.
