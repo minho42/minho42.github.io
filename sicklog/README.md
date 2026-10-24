@@ -24,9 +24,11 @@ a sick log of their own, and those during an illness show up in its sick log.
 ## Looking back
 
 - **Calendar** — a month at a glance, with each person in their own colour.
-- **Logs** — every sick log in one list, with everything recorded during it.
 - **People** — each person's sick logs and their full history.
-- **Export** — save everything as a CSV or JSON file whenever you like.
+- **Search** — find any sick log, symptom, temperature, medication, visit, or
+  note.
+- **Export** — save everything, one person's data, or a single sick log as a
+  CSV file whenever you like.
 
 ## iCloud
 
