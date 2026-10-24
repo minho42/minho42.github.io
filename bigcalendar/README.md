@@ -1,6 +1,6 @@
 # Big Calendar
 
-A big, easy-to-see calendar for iPhone.
+A calendar for iPhone that shows your event titles in full.
 
 [<img src="../badge-appstore.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/big-calendar/id6801043934)
 
@@ -9,26 +9,42 @@ A big, easy-to-see calendar for iPhone.
 <img src="comp-bigcal.png" alt="Big Calendar screenshot" width="300" />
 
 Big Calendar shows the calendars already on your device — iCloud, Google, and
-anything else synced through iOS — in a large, high-contrast layout that's easy
-to read at a glance.
+anything else synced through iOS — in a clear week grid where long event titles
+wrap onto multiple lines instead of being cut off, so you can read your weeks at
+a glance.
 
 ## Features
 
-- **Big, clear layout** — your events shown large and easy to read.
+- **Full, multi-line event titles** — long titles wrap onto as many lines as they
+  need instead of ending in "…", so you see what each event actually is.
+- **Multi-day events as bars** — trips and holidays stretch across the days they
+  cover, and continue onto the next week's row.
 - **Choose how many weeks to see** — view 1–2 weeks for free, or up to 4 weeks
-  with a one-time Pro upgrade.
+  and the whole month with a one-time Pro upgrade (**Settings → Layout**).
+- **Quick event details** — tap an event to see its details below the calendar,
+  without losing your place.
 - **Word replacements** — shorten long words in event titles (e.g. `birthday ->
   bday`, `movie -> 🍿`, `minho kim -> mk`) so more fits on screen. Handy in
-  the 3–4 week view, where long titles get cut off to keep things readable.
+  the 3–4 week and month views, where long titles get cut off to keep things readable.
 - **Pick which calendars show** — turn calendars on/off and reorder them so the
   ones you care about appear first each day.
 - **Australian holidays by state** — if you subscribe to the Australian Holidays
   calendar, show only the states you care about.
 
+## How many lines a title gets
+
+| Layout | Top week row | Other rows |
+| :----- | :----------- | :--------- |
+| 1–2 weeks | No limit | No limit |
+| 3–4 weeks | No limit | 2 lines |
+| Month | 2 lines | 2 lines |
+
+"No limit" still stops a single event from growing taller than its week row.
+
 ## How events are ordered
 
 Multi-day events always come first — they're drawn as bars at the top of each day.
-Your calendar order from **Settings → calendars** then applies to the remaining
+Your calendar order from **Settings → Calendars** then applies to the remaining
 single-day events. So the calendar order isn't followed 100%: multi-day events take
 priority over it.
 
@@ -40,8 +56,8 @@ calendar events only.
 ## Pro
 
 Big Calendar is free to use with a 1–2 week view. A single one-time purchase
-unlocks the multi-week (3–4 week) view and any future Pro features. No
-subscriptions.
+unlocks the multi-week (3–4 week) and month views, and any future Pro features.
+No subscriptions.
 
 ## Using with Google Calendar
 
@@ -59,20 +75,6 @@ Then open Big Calendar — your events appear. If the grid is empty, no account 
 | Apple Calendar | Google Calendar | Big Calendar |
 | :------------: | :-------------: | :----------: |
 | <img src="comp-acal.png" width="260"> | <img src="comp-gcal.png" width="260"> | <img src="comp-bigcal.png" width="260"> |
-
-## Why I built this
-
-I've been using Google Calendar for over 10 years, but lately the fonts
-have started to feel too small.
-
-So I built an opinionated iOS calendar app, Big Calendar, that suits my needs:
-big fonts, readable (multi-line) events, a wide column for today, etc. Basically
-it's for people who don't use timed events much.
-
-Now I use it every day, and it has pretty much replaced Google Calendar for me.
-
-If you find your calendar too small to read, maybe give it a try. Any feedback
-is appreciated.
 
 ## Privacy
 
