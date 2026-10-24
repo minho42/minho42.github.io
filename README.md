@@ -1,3 +1,4 @@
+- [shiftplanner](shiftplanner/)
 - [kindlywords](kindlywords/)
 - [voicesupport](voicesupport/)
 - [steps](steps/)
