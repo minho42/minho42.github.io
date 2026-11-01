@@ -8,7 +8,9 @@ a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
 **Price:** US$15 once, for up to 2 Macs. Gimbap needs a licence key to run.
 
-[**Buy Gimbap, US$15**](https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01) · [Download version 0.2](https://minho42.github.io/gimbap/Gimbap-0.2.dmg)
+[**Buy Gimbap, US$15**](https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01) · [Download](https://minho42.github.io/gimbap/Gimbap-0.2.dmg)
+
+Version 0.2 · macOS 15.6 or later
 
 ## Themes
 
