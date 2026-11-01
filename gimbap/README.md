@@ -8,7 +8,7 @@ a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
 **Price:** US$15 once, for up to 2 Macs. Gimbap needs a licence key to run.
 
-[**Buy Gimbap, US$15**](https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01) · [Download](https://minho42.github.io/gimbap/Gimbap-0.1.zip)
+[**Buy Gimbap, US$15**](https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01) · [Download version 0.2](https://minho42.github.io/gimbap/Gimbap-0.2.dmg)
 
 ## Themes
 
@@ -259,7 +259,7 @@ open it, and you can change them any time in System Settings ▸ Privacy & Secur
 
 ## The macOS Dock
 
-Gimbap can move the macOS Dock aside while it runs: the Dock waits, hidden, at the bottom of the
+Gimbap takes the macOS Dock's place while it runs: the Dock waits, hidden, at the bottom of the
 screen under Gimbap's (press ⌥⌘D to bring it out). Whenever Gimbap quits, even if it crashes, the
 macOS Dock goes back exactly as it was.
 
@@ -277,11 +277,17 @@ move it to the Trash. The macOS Dock comes back as it was.
 
 ## Your licence
 
-After you pay, your licence key is shown on the page you land on. Download Gimbap, move it to
-Applications and open it, then paste your key and click **Activate**. The key isn't in your receipt, so save it. If you lose it, email us with your
-receipt.
+After you pay, your licence key is shown on the page you land on. It isn't in your receipt, so
+email it to yourself or save it as a file from that page.
 
-To move a licence to another Mac, click **Deactivate on This Mac** in Dock Settings ▸ Licence.
+Download Gimbap, open the disk image and drag Gimbap to Applications. Open it from there, then
+paste your key and click **Activate**.
+
+To get your key again, click **Copy** beside it in Dock Settings ▸ Licence. If you lose it, email
+us with your receipt.
+
+To move a licence to another Mac, choose **Deactivate on This Mac…** from the ⋯ menu in Dock
+Settings ▸ Licence, then type `deactivate me` to confirm.
 
 ## Updates
 
