@@ -8,7 +8,23 @@ a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
 **Price:** US$15 once, for up to 2 Macs. Gimbap needs a licence key to run.
 
-<a href="https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01" style="display:inline-block;padding:.65em 1.4em;background:#0a6cff;color:#fff;border-radius:10px;font-weight:600;text-decoration:none">Buy Gimbap, US$15</a> &nbsp; [Download](https://minho42.github.io/gimbap/Gimbap-0.3.4.dmg)
+<style>
+.gimbap-actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0 14px; }
+.markdown-body .gimbap-actions a { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 52px; padding: 0 26px; border-radius: 14px; font-size: 17px; font-weight: 600; line-height: 1; letter-spacing: -.01em; text-decoration: none; transition: transform .15s ease, box-shadow .15s ease, background-color .15s ease; }
+.markdown-body .gimbap-actions a:focus-visible { outline: 3px solid rgba(10, 108, 255, .45); outline-offset: 2px; }
+.markdown-body .gimbap-actions a:active { transform: translateY(0) scale(.985); }
+.markdown-body a.gimbap-download { padding: 0 30px 0 24px; color: #fff; background: linear-gradient(#0a6cff, #0558e0); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .22), 0 1px 2px rgba(5, 50, 150, .35), 0 10px 22px -10px rgba(10, 108, 255, .75); }
+.markdown-body a.gimbap-download:hover { transform: translateY(-1px); background: linear-gradient(#0a66f5, #0450d0); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .22), 0 2px 3px rgba(5, 50, 150, .35), 0 14px 26px -10px rgba(10, 108, 255, .85); }
+.markdown-body a.gimbap-download svg { flex: none; }
+.markdown-body a.gimbap-buy { color: #1f2328; background: #fff; box-shadow: inset 0 0 0 1.5px #d0d7de; }
+.markdown-body a.gimbap-buy:hover { transform: translateY(-1px); background: #f6f8fa; box-shadow: inset 0 0 0 1.5px #8c959f; }
+@media (max-width: 520px) { .markdown-body .gimbap-actions a { flex: 1 1 100%; } }
+@media (prefers-reduced-motion: reduce) { .markdown-body .gimbap-actions a { transition: none; transform: none !important; } }
+</style>
+<div class="gimbap-actions">
+<a class="gimbap-download" href="https://minho42.github.io/gimbap/Gimbap-0.3.4.dmg"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3v9.5M5.75 8.75 10 13l4.25-4.25M3.5 16.5h13"/></svg>Download for Mac</a>
+<a class="gimbap-buy" href="https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01">Buy for US$15</a>
+</div>
 
 Version 0.3.4 · macOS 15.6 or later
 
