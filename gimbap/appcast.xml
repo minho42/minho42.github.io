@@ -3,6 +3,18 @@
     <channel>
         <title>Gimbap</title>
         <item>
+            <title>0.3</title>
+            <pubDate>Sun, 01 Nov 2026 21:23:53 +1100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://minho42.github.io/gimbap/Gimbap-0.3.zip" length="3352552" type="application/octet-stream" sparkle:edSignature="YNYjD2SFs09KhHvoxg9k1qkTB6gmWmNPGwF6HejkSeqSA2RFsmTh15letBW091DyZ5Ob7YTOZpRRSGXN+xo2DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://minho42.github.io/gimbap/Gimbap3-2.delta" sparkle:deltaFrom="2" length="240810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jOXiueq4k58Mlnp+dVv2iu1ZSbx343dcR8xxClwv4T552F3vMTe3e0jxsV3Mx3WodNQ+PzhAs46DbhuoNfVKBA=="/>
+                <enclosure url="https://minho42.github.io/gimbap/Gimbap3-1.delta" sparkle:deltaFrom="1" length="290202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1aBPx3dnPMt0lGdkW/DVlqVfg9svR7CHrc4s3dx0Q2z44M6s94ZGSoxub+EE3jezpuxIzXoslAQgKYY7Oc9CDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2</title>
             <pubDate>Sun, 01 Nov 2026 19:39:31 +1100</pubDate>
             <sparkle:version>2</sparkle:version>

@@ -8,9 +8,9 @@ a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
 **Price:** US$15 once, for up to 2 Macs. Gimbap needs a licence key to run.
 
-[**Buy Gimbap, US$15**](https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01) · [Download](https://minho42.github.io/gimbap/Gimbap-0.2.dmg)
+[**Buy Gimbap, US$15**](https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01) · [Download](https://minho42.github.io/gimbap/Gimbap-0.3.dmg)
 
-Version 0.2 · macOS 15.6 or later
+Version 0.3 · macOS 15.6 or later
 
 ## Themes
 
@@ -290,6 +290,14 @@ us with your receipt.
 
 To move a licence to another Mac, choose **Deactivate on This Mac…** from the ⋯ menu in Dock
 Settings ▸ Licence, then type `deactivate me` to confirm.
+
+## Refunds
+
+If Gimbap isn't for you, email us within 30 days of buying, with your receipt, and we'll refund you
+in full. A refund ends your licence key on every Mac it's active on, and the money usually reaches
+you within a week or two. You can also ask for a refund through
+[Link](https://support.link.com/topics/sold-through-link), which handles the payment. None of this
+limits your rights under your local consumer law.
 
 ## Updates
 
