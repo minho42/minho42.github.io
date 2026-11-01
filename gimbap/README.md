@@ -6,7 +6,7 @@ Gimbap takes the place of the macOS Dock at the bottom of your screen. It shows 
 folders and Trash, works the way the Dock does, and dresses it up with themes and effects, from
 a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
-**Price:** a one-time purchase for up to 3 Macs, with a free 7-day trial of everything
+**Price:** US$15 once, for up to 2 Macs, with a free 7-day trial of everything
 
 ## Themes
 
@@ -257,8 +257,8 @@ open it, and you can change them any time in System Settings ▸ Privacy & Secur
 
 ## The macOS Dock
 
-Gimbap can move the macOS Dock aside while it runs: the Dock waits, hidden, at the right edge
-of the screen (push the pointer there to use it). Whenever Gimbap quits, even if it crashes, the
+Gimbap can move the macOS Dock aside while it runs: the Dock waits, hidden, at the bottom of the
+screen under Gimbap's (press ⌥⌘D to bring it out). Whenever Gimbap quits, even if it crashes, the
 macOS Dock goes back exactly as it was.
 
 ## Current limitations
@@ -273,6 +273,14 @@ macOS Dock goes back exactly as it was.
 Quit Gimbap (right-click the line between the apps and the folders, then **Quit Gimbap**) and
 move it to the Trash. The macOS Dock comes back as it was.
 
+## Your licence
+
+After you pay, your licence key is shown on the page you land on. Paste it in Dock Settings ▸
+Licence and click **Activate**. It isn't in your receipt, so save it. If you lose it, email us
+with your receipt.
+
+To move a licence to another Mac, click **Deactivate on This Mac** in Dock Settings ▸ Licence.
+
 ## Updates
 
 Gimbap checks for updates once a day and offers new versions, which are signed and notarised by
@@ -280,7 +288,7 @@ Apple. You can turn this off in Dock Settings ▸ Updates.
 
 ## Privacy
 
-Gimbap collects nothing. See the [privacy policy](privacy-policy.md).
+Gimbap collects nothing beyond what a licence needs. See the [privacy policy](privacy-policy.md).
 
 ## Contact
 
