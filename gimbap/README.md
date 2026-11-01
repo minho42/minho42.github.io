@@ -8,6 +8,8 @@ a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
 **Price:** US$15 once, for up to 2 Macs. Gimbap needs a licence key to run.
 
+[**Buy Gimbap, US$15**](https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01) · [Download](https://minho42.github.io/gimbap/Gimbap-0.1.zip)
+
 ## Themes
 
 Glass (the macOS Dock's own look), Water, Rocks, ASCII, Aurora, Brutal, Y2K, RPG, FPS, Live
@@ -275,8 +277,8 @@ move it to the Trash. The macOS Dock comes back as it was.
 
 ## Your licence
 
-After you pay, your licence key is shown on the page you land on. Open Gimbap, paste your key and
-click **Activate**. The key isn't in your receipt, so save it. If you lose it, email us with your
+After you pay, your licence key is shown on the page you land on. Download Gimbap, move it to
+Applications and open it, then paste your key and click **Activate**. The key isn't in your receipt, so save it. If you lose it, email us with your
 receipt.
 
 To move a licence to another Mac, click **Deactivate on This Mac** in Dock Settings ▸ Licence.
