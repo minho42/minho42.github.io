@@ -96,6 +96,18 @@ energy.
 Each picture shows the pointer resting on Finder.
 
 <!-- theme-gallery:start (made by scripts/theme-screenshots.sh in the gimbap repo) -->
+**Glitter**
+
+![Glitter in Party](screenshots/glitter-party.png)
+
+**Water**
+
+![Water in Lagoon](screenshots/water-lagoon.png)
+
+**Rocks**
+
+![Rocks in Granite](screenshots/rocks-granite.png)
+
 <details markdown="1">
 <summary><strong>See all themes</strong></summary>
 
