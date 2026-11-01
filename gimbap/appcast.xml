@@ -3,6 +3,20 @@
     <channel>
         <title>Gimbap</title>
         <item>
+            <title>0.3.3</title>
+            <pubDate>Sun, 01 Nov 2026 22:29:40 +1100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://minho42.github.io/gimbap/Gimbap-0.3.3.zip" length="3358199" type="application/octet-stream" sparkle:edSignature="f+1DczOC1OzM2Yhf+gqSu4B+ayZW6q19r8k5cKBvsEDN6zI+8xVaPk40BpQHSyBnLhFJoIuPBdKhTtPfbJeuDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://minho42.github.io/gimbap/Gimbap5-4.delta" sparkle:deltaFrom="4" length="208698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2QkV1t7/f2iCCe20btKuOfPo7nj3+a9vL4H3Kw/NvG2AvsYUsFI2CQxDeI6w+0q5yxpPjPW3ITcUwhZ6HQQICQ=="/>
+                <enclosure url="https://minho42.github.io/gimbap/Gimbap5-3.delta" sparkle:deltaFrom="3" length="208266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GSR1M/mQlH6Gs7dC8q6sXm9pN4D32/bCrpDV3uIg8qTdYc2FGY1JBREIKqxUnnAnZfsytYO5PavgBHgjHh7sCQ=="/>
+                <enclosure url="https://minho42.github.io/gimbap/Gimbap5-2.delta" sparkle:deltaFrom="2" length="257310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K4PDJs2CBiGU9pIxIpvvH4mttis3J/MJ8TJdKC62HCInzkNEdOySaH8skfwB8Cjua/eo+YyiNfST5g9Qmk3ZAA=="/>
+                <enclosure url="https://minho42.github.io/gimbap/Gimbap5-1.delta" sparkle:deltaFrom="1" length="298086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zqDIwseHQyw6U6hsReOKErZI6o6FxAZP6SlCfSPjL3HL2+zPMPDmMDN40Z6o+gnLKaSEgf1vEwoNz0hCPZeHDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Sun, 01 Nov 2026 22:07:15 +1100</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://minho42.github.io/gimbap/Gimbap3-2.delta" sparkle:deltaFrom="2" length="240810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jOXiueq4k58Mlnp+dVv2iu1ZSbx343dcR8xxClwv4T552F3vMTe3e0jxsV3Mx3WodNQ+PzhAs46DbhuoNfVKBA=="/>
                 <enclosure url="https://minho42.github.io/gimbap/Gimbap3-1.delta" sparkle:deltaFrom="1" length="290202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1aBPx3dnPMt0lGdkW/DVlqVfg9svR7CHrc4s3dx0Q2z44M6s94ZGSoxub+EE3jezpuxIzXoslAQgKYY7Oc9CDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Sun, 01 Nov 2026 19:39:31 +1100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://minho42.github.io/gimbap/Gimbap-0.2.zip" length="3341048" type="application/octet-stream" sparkle:edSignature="vT6VXh169hI5ywPxM/w7pdPhRw2aAVwwNCjYscWhXFe7r+aRFVP/GcMtZetq5Ntx+68jc+p1HxXlXun3IZyHAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://minho42.github.io/gimbap/Gimbap2-1.delta" sparkle:deltaFrom="1" length="276314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YNRB747bIlwHibQvZCRug7eGM29LIklfRzwcYnGo8BtuXM5uRCN4aYqvcDzzvIWa5iDQkwYLOCVqksWdeGjBBA=="/>
             </sparkle:deltas>
         </item>
     </channel>
