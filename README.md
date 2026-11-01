@@ -1,10 +1,10 @@
 <!-- - [autohan](autohan/) -->
 - [gimbap](gimbap/)
 - [shiftplanner](shiftplanner/)
-- [kindlywords](kindlywords/)
-- [voicesupport](voicesupport/)
-- [steps](steps/)
-- [cardlist](cardlist/)
+<!-- - [kindlywords](kindlywords/) -->
+<!-- - [voicesupport](voicesupport/) -->
+<!-- - [steps](steps/) -->
+<!-- - [cardlist](cardlist/) -->
 - [sicklog](sicklog/)
 - [menucalendar](menucalendar/)
 - [gymlog](gymlog/)
