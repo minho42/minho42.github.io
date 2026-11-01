@@ -6,7 +6,7 @@ Gimbap takes the place of the macOS Dock at the bottom of your screen. It shows 
 folders and Trash, works the way the Dock does, and dresses it up with themes and effects, from
 a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
-**Price:** US$15 once, for up to 2 Macs, with a free 7-day trial of everything
+**Price:** US$15 once, for up to 2 Macs. Gimbap needs a licence key to run.
 
 ## Themes
 
@@ -275,9 +275,9 @@ move it to the Trash. The macOS Dock comes back as it was.
 
 ## Your licence
 
-After you pay, your licence key is shown on the page you land on. Paste it in Dock Settings ▸
-Licence and click **Activate**. It isn't in your receipt, so save it. If you lose it, email us
-with your receipt.
+After you pay, your licence key is shown on the page you land on. Open Gimbap, paste your key and
+click **Activate**. The key isn't in your receipt, so save it. If you lose it, email us with your
+receipt.
 
 To move a licence to another Mac, click **Deactivate on This Mac** in Dock Settings ▸ Licence.
 
