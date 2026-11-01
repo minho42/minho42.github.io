@@ -31,9 +31,7 @@ Version 0.3.4 · macOS 15.6 or later
 The download is free, so check it opens on your Mac before you buy.
 
 
-<iframe src="https://www.youtube-nocookie.com/embed/VtC0_thl4xw" title="Gimbap, a Dock for your Mac, with themes." allow="autoplay; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px"></iframe>
-
-<iframe src="https://www.youtube-nocookie.com/embed/ES6-6wdlNGY" title="Gimbap themes from the settings" allow="autoplay; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Tv4Ey3S6xPI" title="Gimbap, a Dock for your Mac, with themes." allow="autoplay; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px"></iframe>
 
 ## Themes
 
