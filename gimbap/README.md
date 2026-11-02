@@ -312,7 +312,7 @@ macOS Dock goes back exactly as it was.
 
 ## Uninstalling
 
-Quit Gimbap (right-click the line between the apps and the folders, then **Quit Gimbap**) and
+Quit Gimbap (right-click the line between the apps and the folders, then **Quit**) and
 move it to the Trash. The macOS Dock comes back as it was.
 
 ## Your licence
