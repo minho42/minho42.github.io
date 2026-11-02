@@ -22,11 +22,11 @@ a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 @media (prefers-reduced-motion: reduce) { .markdown-body .gimbap-actions a { transition: none; transform: none !important; } }
 </style>
 <div class="gimbap-actions">
-<a class="gimbap-download" href="https://minho42.github.io/gimbap/Gimbap-0.3.4.dmg"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3v9.5M5.75 8.75 10 13l4.25-4.25M3.5 16.5h13"/></svg>Download for Mac</a>
+<a class="gimbap-download" href="https://minho42.github.io/gimbap/Gimbap-0.3.5.dmg"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3v9.5M5.75 8.75 10 13l4.25-4.25M3.5 16.5h13"/></svg>Download for Mac</a>
 <a class="gimbap-buy" href="https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01">Buy for US$15</a>
 </div>
 
-Version 0.3.4 · macOS 15.6 or later
+Version 0.3.5 · macOS 15.6 or later
 
 The download is free, so check it opens on your Mac before you buy.
 
