@@ -13,7 +13,7 @@ or tracking of any kind.
 To work like the Dock, Gimbap reads things on your Mac, and only on your Mac:
 
 - your Dock's apps, folders and settings,
-- which apps are running and their open windows (with **Accessibility** permission),
+- which apps are running, their open windows and what the macOS Dock lists in their menus (with **Accessibility** permission),
 - what's in the Trash, and each app's recent documents (with **Full Disk Access**).
 
 This is used only to show your dock and its menus. It is **never** sent to us or to anyone else.

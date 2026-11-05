@@ -293,8 +293,8 @@ macOS 15.6 or later, on Apple silicon or Intel.
 Gimbap works without any permissions, and better with these two. It asks for them when you first
 open it, and you can change them any time in System Settings ▸ Privacy & Security.
 
-- **Accessibility:** lists each app's windows in its menu, shows badges and minimised windows,
-  and keeps maximised windows above the dock.
+- **Accessibility:** shows each app's own items and windows in its menu, as the macOS Dock does,
+  shows badges and minimised windows, and keeps maximised windows above the dock.
 - **Full Disk Access:** shows what's in the Trash, and each app's recent documents in its menu.
 
 ## The macOS Dock
@@ -308,7 +308,7 @@ macOS Dock goes back exactly as it was.
 - The dock sits at the bottom of the screen; left and right positions aren't supported yet.
 - It shows on your main display only.
 - Minimised windows show their app's icon rather than a live preview.
-- Stacks open as a list; the Dock's Grid and Fan views aren't available.
+- Stacks open as a list or a grid; the Dock's Fan view isn't available.
 
 ## Uninstalling
 
