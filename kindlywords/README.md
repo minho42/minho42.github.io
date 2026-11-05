@@ -6,6 +6,8 @@ Learn the words you look up on your Kindle, in the sentences you found them in.
 &nbsp;
 <img src="ss2.png" alt="Kindly Words looked-up words in a book" width="280">
 
+<iframe src="https://www.youtube-nocookie.com/embed/350h1aIA5zo" title="Kindly Words demo walkthrough" allow="autoplay; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px"></iframe>
+
 ## How it works
 
 Kindly Words has two apps, and the Mac app comes first:
