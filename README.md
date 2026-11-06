@@ -1,6 +1,5 @@
 - [kindlywords](kindlywords/)
 - [gimbap](gimbap/)
-- [shiftplanner](shiftplanner/)
 - [sicklog](sicklog/)
 - [menucalendar](menucalendar/)
 - [gymlog](gymlog/)
