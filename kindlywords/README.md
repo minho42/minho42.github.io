@@ -2,6 +2,14 @@
 
 Learn the words you look up on your Kindle, in the sentences you found them in.
 
+Kindly Words needs both apps: one on your Mac to get the words off your Kindle, and one on
+your iPhone to learn them.
+
+1. **On your Mac:** Kindly Words Importer reads your Kindle.<br>
+   [<img src="../badge-macappstore.svg" alt="Download Kindly Words Importer on the Mac App Store" height="50">](https://apps.apple.com/app/kindly-words/id6818671657?platform=mac)
+2. **On your iPhone:** Kindly Words is where you learn your words.<br>
+   [<img src="../badge-appstore.svg" alt="Download Kindly Words on the App Store" height="50">](https://apps.apple.com/app/kindly-words/id6818671657)
+
 <img src="ss.png" alt="Kindly Words books on iPhone" width="280">
 &nbsp;
 <img src="ss2.png" alt="Kindly Words looked-up words in a book" width="280">
