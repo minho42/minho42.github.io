@@ -3,8 +3,9 @@
 <img src="icon.png" alt="Parking Defense icon" width="96">
 
 A tower defense game for iPhone: one parking ranger against a city full of illegal
-parkers. Cars pour down two roads toward the car park. Ticket them before they sneak
-in, because about 15 cars getting in (or your ranger getting run over) ends the game.
+parkers. Cars pour down two roads toward the car park, which has just 5 free spaces
+(counted down on the green SPACES sign). Ticket them before they sneak in: when the
+spaces are gone, or your ranger gets run over, the game ends.
 
 Coming soon to the App Store.
 
@@ -25,8 +26,9 @@ Coming soon to the App Store.
 
 ## Privacy
 
-Parking Defense collects nothing: no ads, no analytics, no tracking, no accounts. See
-the [privacy policy](privacy-policy.md).
+Parking Defense is free and has no accounts. After your first 5 games it shows a
+full-screen Google AdMob ad after a lost game; Google may use your device's advertising
+identifier for this, if you allow it. See the [privacy policy](privacy-policy.md).
 
 ## Support
 
