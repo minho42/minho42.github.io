@@ -6,7 +6,7 @@ Gimbap takes the place of the macOS Dock at the bottom of your screen. It shows 
 folders and Trash, works the way the Dock does, and dresses it up with themes and effects, from
 a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 
-**Price:** US$15 once, for up to 2 Macs. Gimbap needs a licence key to run.
+**Price:** Free for 7 days, then US$15 once, for up to 2 Macs.
 
 <style>
 .gimbap-actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0 14px; }
@@ -22,13 +22,13 @@ a plain glass Dock to lava, water, popcorn and an ASCII terminal.
 @media (prefers-reduced-motion: reduce) { .markdown-body .gimbap-actions a { transition: none; transform: none !important; } }
 </style>
 <div class="gimbap-actions">
-<a class="gimbap-download" href="https://minho42.github.io/gimbap/Gimbap-0.3.5.dmg"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3v9.5M5.75 8.75 10 13l4.25-4.25M3.5 16.5h13"/></svg>Download for Mac</a>
+<a class="gimbap-download" href="https://minho42.github.io/gimbap/Gimbap-0.3.6.dmg"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3v9.5M5.75 8.75 10 13l4.25-4.25M3.5 16.5h13"/></svg>Download for Mac</a>
 <a class="gimbap-buy" href="https://buy.stripe.com/6oU00ja2W0OiaKZfBu5AQ01">Buy for US$15</a>
 </div>
 
-Version 0.3.5 · macOS 15.6 or later
+Version 0.3.6 · macOS 15.6 or later
 
-The download is free, so check it opens on your Mac before you buy.
+Try it free for 7 days, with every theme. After that, Gimbap needs a licence key to keep running.
 
 
 <iframe src="https://www.youtube-nocookie.com/embed/k3qWzeIzZu8" title="Gimbap, a Dock for your Mac, with themes." allow="autoplay; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px"></iframe>
@@ -320,8 +320,9 @@ move it to the Trash. The macOS Dock comes back as it was.
 After you pay, your licence key is shown on the page you land on. It isn't in your receipt, so
 email it to yourself or save it as a file from that page.
 
-Download Gimbap, open the disk image and drag Gimbap to Applications. Open it from there, then
-paste your key and click **Activate**.
+If you're trying Gimbap already, paste your key in Dock Settings ▸ Licence and click **Activate**.
+Otherwise, download Gimbap, open the disk image and drag Gimbap to Applications. Open it from
+there, then paste your key and click **Activate**.
 
 To get your key again, click **Copy** beside it in Dock Settings ▸ Licence. If you lose it, email
 us with your receipt.

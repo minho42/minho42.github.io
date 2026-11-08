@@ -18,6 +18,9 @@ To work like the Dock, Gimbap reads things on your Mac, and only on your Mac:
 
 This is used only to show your dock and its menus. It is **never** sent to us or to anyone else.
 
+The date you first opened Gimbap, which starts its 7-day free trial, is kept in your Keychain on
+your Mac. It is never sent anywhere.
+
 ## Licence
 
 When you activate a licence, Gimbap sends your licence key and your Mac's name to our licence
