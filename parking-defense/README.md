@@ -1,7 +1,7 @@
 # Parking Defense
 
 A tower defense game for iPhone. Cars keep coming, wave after wave: as the parking
-ranger, ticket them before they reach the car park. How long can you hold out?
+officer, ticket them before they reach the car park. How long can you hold out?
 
 Coming soon to the App Store.
 
