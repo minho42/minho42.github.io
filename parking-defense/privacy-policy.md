@@ -21,10 +21,9 @@ personalised ads. How Google uses this data:
 
 ## On your device
 
-The game saves a few things on your own device so they are there next time: the
-your settings, your best results, how many games you have played and whether an ad is
-still due. They never leave your device
-and are deleted when you delete the app.
+The game saves a few things on your own device so they are there next time: your settings,
+your best results, how many games you have played and whether an ad is still due. They never
+leave your device and are deleted when you delete the app.
 
 The game never uses your camera, microphone or photos.
 
