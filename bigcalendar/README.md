@@ -36,8 +36,13 @@ a glance.
 | Layout | Top week row | Other rows |
 | :----- | :----------- | :--------- |
 | 1–2 weeks | No limit | No limit |
-| 3–4 weeks | No limit | 2 lines |
-| Month | 2 lines | 2 lines |
+| 3–4 weeks | 1 line | 1 line |
+| Month | 1 line | 1 line |
+
+That's with **compact titles** on (the default). In the 3–4 week and month views,
+the button beside the settings gear switches between compact and expanded titles.
+Expanded gives 3–4 week views an unlimited top row and 2 lines below, and month
+view 2 lines in every row. Tap an event to read its full title.
 
 "No limit" still stops a single event from growing taller than its week row.
 
