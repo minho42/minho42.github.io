@@ -28,7 +28,7 @@ You can turn this off in Settings → Wikipedia & Wiktionary. Then nothing leave
 when you look up a word.
 
 Pages from Wikipedia, Wiktionary or Google open only when you tap a button for them. They
-open in Safari's in-app view, where those sites' own privacy policies apply.
+open in Safari, where those sites' own privacy policies apply.
 
 ## On your device
 
