@@ -3,7 +3,7 @@
 A dictionary you point at the page. Reading a paper book? Aim your iPhone at the page and tap
 any word: its meaning slides up, the one that fits the sentence first.
 
-Coming soon to the App Store.
+[<img src="../badge-appstore.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/camtionary-camera-dictionary/id6837508195)
 
 <img src="ss.png" alt="Camtionary showing what spleen means in a page of Moby-Dick" width="280">
 
