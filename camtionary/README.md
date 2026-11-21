@@ -16,7 +16,8 @@ any word: its meaning slides up, the one that fits the sentence first.
 - Words broken over two lines are joined back up.
 - Pinch to zoom up to 5×, and a torch for small print and dim rooms.
 - Keep your words by book: photograph a book's cover or type its title, and the words you
-  look up are saved under it, with the sentence you found them in.
+  look up are saved under it, with the sentence you found them in. Move a word to another
+  book any time.
 - Export your words as a spreadsheet (CSV).
 - Names, places and newer words come from Wikipedia and Wiktionary, and one tap searches
   Google for anything else.
