@@ -17,14 +17,14 @@ Coming soon to the App Store.
 - Pinch to zoom up to 5×, and a torch for small print and dim rooms.
 - Keep your words by book: photograph a book's cover or type its title, and the words you
   look up are saved under it, with the sentence you found them in.
+- Export your words as a spreadsheet (CSV).
 - Names, places and newer words come from Wikipedia and Wiktionary, and one tap searches
   Google for anything else.
 
 Every feature is free, with 10 lookups a day. Camtionary Pro, a one-time purchase, removes
 the daily limit.
 
-The dictionary is English, with more than 160,000 words from
-[Open English WordNet](https://en-word.net). It works offline.
+The dictionary is English only, with more than 160,000 words, and works offline.
 
 ## Privacy
 
