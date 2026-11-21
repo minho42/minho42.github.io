@@ -24,7 +24,7 @@ any word: its meaning slides up, the one that fits the sentence first.
 Every feature is free, with 10 lookups a day. Camtionary Pro, a one-time purchase, removes
 the daily limit.
 
-The dictionary is English only, with more than 150,000 words and phrases, and works offline.
+The dictionary is English only, and works offline.
 
 ## Privacy
 
