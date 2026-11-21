@@ -18,9 +18,11 @@ The sentence isn't sent anywhere.
 ## Wikipedia and Wiktionary
 
 When you look up a word, Camtionary sends that word, and nothing else, to Wikipedia and
-Wiktionary, run by the Wikimedia Foundation, to show what they say about it. It never sends
-the camera's picture, the sentence around the word, or anything about you. How Wikimedia
-handles requests: [Wikimedia's privacy policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy).
+Wiktionary, run by the Wikimedia Foundation, to show what they say about it. To find
+Wikipedia's article for the meaning you're reading, it also sends that meaning's dictionary
+number (its WordNet ID) to Wikidata, also run by Wikimedia. It never sends the camera's picture,
+the sentence around the word, or anything about you. How Wikimedia handles requests:
+[Wikimedia's privacy policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy).
 
 You can turn this off in Settings → Wikipedia & Wiktionary. Then nothing leaves your iPhone
 when you look up a word.
