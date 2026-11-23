@@ -16,7 +16,8 @@ a glance.
 ## Features
 
 - **Full, multi-line event titles** — long titles wrap onto as many lines as they
-  need instead of ending in "…", so you see what each event actually is.
+  need instead of ending in "…", so you see what each event actually is. The
+  button beside the settings gear switches to compact, one-line titles and back.
 - **Multi-day events as bars** — trips and holidays stretch across the days they
   cover, and continue onto the next week's row.
 - **Choose how many weeks to see** — view 1–2 weeks for free, or up to 4 weeks
@@ -33,16 +34,16 @@ a glance.
 
 ## How many lines a title gets
 
-| Layout | Top week row | Other rows |
-| :----- | :----------- | :--------- |
-| 1–2 weeks | No limit | No limit |
-| 3–4 weeks | 1 line | 1 line |
-| Month | 1 line | 1 line |
+The button beside the settings gear switches between **compact titles** (the
+default) and **expanded titles**, in every layout:
 
-That's with **compact titles** on (the default). In the 3–4 week and month views,
-the button beside the settings gear switches between compact and expanded titles.
-Expanded gives 3–4 week views an unlimited top row and 2 lines below, and month
-view 2 lines in every row. Tap an event to read its full title.
+| Layout | Compact titles | Expanded titles |
+| :----- | :------------- | :-------------- |
+| 1–2 weeks | 1 line | No limit |
+| 3–4 weeks | 1 line | No limit in the top week row, 2 lines in the others |
+| Month | 1 line | 2 lines |
+
+Tap an event to read its full title.
 
 "No limit" still stops a single event from growing taller than its week row.
 
