@@ -6,7 +6,7 @@ A calendar for iPhone that shows your event titles in full.
 
 <img src="qr-code.png" alt="QR code to download Big Calendar on the App Store" width="150" />
 
-<img src="comp-bigcal.png" alt="Big Calendar screenshot" width="300" />
+<img src="appstore-1.png" alt="Big Calendar screenshot: every event title, in full" width="300" />
 
 Big Calendar shows the calendars already on your device — iCloud, Google, and
 anything else synced through iOS — in a clear week grid where long event titles
