@@ -3,7 +3,8 @@
 A quick arcade game for iPhone. Meters run out, drivers wander off to the shops: as the
 parking officer, race along the street and ticket every red car before its driver gets back.
 The longer a car waits, the bigger the fine, if you dare to wait. Work your way along the
-map, from quiet country lanes to the busy big city, by day and by night.
+map, from quiet country lanes to the busy big city, by day and by night: every level has a
+street of its own, with riverside lanes, angle parking, crosswalks and hedged boulevards.
 
 Coming soon to the App Store.
 
